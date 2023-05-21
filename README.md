@@ -1,9 +1,16 @@
-### Hi there 🦖
+### Hi there, Mahny here🦖
 
-#I'm currently learning: 
+I'm a Sophomore Computer Science and Engineering Student at Yeditepe Univeristy.
+
+### I'm currently learning: 
 - Java
 - Assembly
 - Verilog
+
+ 📫 let you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
+
+
+
 
 <!--
 **mahnyb/mahnyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
