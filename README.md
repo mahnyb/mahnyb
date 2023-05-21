@@ -1,13 +1,14 @@
-### Hi there, Mahny here🦖
+## Hiya, Mahny here🦖
 
+#### About me:
 I'm a Sophomore Computer Science and Engineering Student at Yeditepe Univeristy.
 
-### I'm currently learning: 
+#### I'm currently learning: 
 - Java
 - Assembly
 - Verilog
 
- 📫 let you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
+ 🍃 you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
 
 
 
