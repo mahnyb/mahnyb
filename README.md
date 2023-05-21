@@ -3,17 +3,6 @@
 #### About me:
 I'm a Sophomore Computer Science and Engineering Student at Yeditepe Univeristy.
 
-#### I'm currently learning: 
-- Java 
-- Assembly
-- Verilog
-
-#### I'm interested in:
-- Software Development
-- Cognitive Computing
-- Natural Language Processing
-
-
  🦉 you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
 
 
