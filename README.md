@@ -8,6 +8,18 @@ I'm a Sophomore Computer Science and Engineering Student at Yeditepe Univeristy.
 - Assembly
 - Verilog
 
+#### I also know:
+- Python
+- C
+- C++
+
+#### I have a good understading of:
+
+- OOP
+- Data Structures
+- Logic Designs
+
+
 #### I'm interested in:
 - Software Development
 - Cognitive Computing
