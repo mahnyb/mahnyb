@@ -1,7 +1,7 @@
 ## Hiya, Mahny here 🦖
 
 #### About me:
-I'm a Sophomore Computer Science and Engineering Student at Yeditepe Univeristy.
+I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
 
  🦉 you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
 
