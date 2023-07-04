@@ -3,8 +3,7 @@
 #### About me:
 I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
 
- 🦉 you can reach me at: www.linkedin.com/in/mahnybarazandehtar/
-
+ 🦉 you can reach me through my LinkedIn 
 
 
 
