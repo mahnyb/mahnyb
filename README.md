@@ -1,9 +1,8 @@
-## Hiya, Mahny here 🦖
+## Hiya, Mahny here :D
 
-#### About me:
-I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
+I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy. 
 
- 🦉 you can reach me through my LinkedIn 
+ 🦖 you can reach me through my LinkedIn 
 
 
 
