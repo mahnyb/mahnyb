@@ -2,7 +2,7 @@
 
 I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy. 
 
- 🦖 you can reach me through my LinkedIn 
+ 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/mahnybarazandehtar/) and/or [Email](mahnybarazandehtar1998@gmail.com).
 
  ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mahny/30-nites-of-code)  
