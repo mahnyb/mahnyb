@@ -4,6 +4,10 @@ I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
 
  🦖 you can reach me through my LinkedIn 
 
+ ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mahny/30-nites-of-code)  
+  ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
+
 
 
 <!--
