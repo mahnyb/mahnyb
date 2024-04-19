@@ -8,7 +8,7 @@ I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
   [Check out my progress!](https://www.codedex.io/@mahny/30-nites-of-code)  
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
-![Snake animation](https://raw.githubusercontent.com/{mahnyb}/{mahnyb}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mahnyb/mahnyb/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **mahnyb/mahnyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
