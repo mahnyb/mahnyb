@@ -1,4 +1,4 @@
-## Hiya, Mahny here :D
+## Hiya, Mahny here (˶ᵔ ᵕ ᵔ˶)
 
 I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy. 
 
