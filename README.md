@@ -9,7 +9,7 @@ I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy.
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
 
-  ![Codewars](https://github.r2v.ch/codewars?user=mahny&theme=gradient_purple_dark&top_languages=true&hide_clan=true)
+  [![Codewars](https://github.r2v.ch/codewars?user=mahny&theme=gradient_purple_dark&top_languages=true&hide_clan=true)](https://www.codewars.com/users/mahny)
 
 
 ![Snake animation](https://raw.githubusercontent.com/mahnyb/mahnyb/output/github-contribution-grid-snake-dark.svg)
