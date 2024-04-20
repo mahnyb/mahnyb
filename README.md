@@ -1,7 +1,12 @@
 ## Hiya, Mahny here (˶ᵔ ᵕ ᵔ˶)
 
-I'm a Junior Computer Science and Engineering Student at Yeditepe Univeristy. 
+I'm a junior Computer Science and Engineering student at Yeditepe University, passionate about exploring the intricate workings of the human mind, especially regarding language and cognition, and their intersection with technology. 
 
+My interests span machine learning, natural language processing, neural networks, cognitive science, psycholinguistics, and linguistics. 
+
+While I'm still gaining experience, I thrive on learning and love connecting with like-minded folks. I'm eager to engage in meaningful discussions and collaborate on exciting projects. Feel free to reach out!
+
+ 
  📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/mahnybarazandehtar/) and/or [Email](mahnybarazandehtar1998@gmail.com).
 
  ## #30NitesOfCode:
