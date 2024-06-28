@@ -1,6 +1,6 @@
 ## Hiya, Mahny here (˶ᵔ ᵕ ᵔ˶)
 
-I'm a junior Computer Science and Engineering student at Yeditepe University, passionate about exploring the intricate workings of the human mind, especially regarding language and cognition, and their intersection with technology. 
+I'm a senior Computer Science and Engineering student at Yeditepe University, passionate about exploring the intricate workings of the human mind, especially regarding language and cognition, and their intersection with technology. 
 
 My interests span machine learning, natural language processing, neural networks, cognitive science, psycholinguistics, and linguistics. 
 
