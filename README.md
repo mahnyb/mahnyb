@@ -13,7 +13,7 @@ While I'm still gaining experience, I thrive on learning and love connecting wit
   [Check out my progress!](https://www.codedex.io/@mahny/30-nites-of-code)  
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
-
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/mahny?theme=unicorn)](https://leetcode.com/mahny)
   [![Codewars](https://github.r2v.ch/codewars?user=mahny&theme=gradient_purple_dark&top_languages=true&hide_clan=true)](https://www.codewars.com/users/mahny)
 
 
