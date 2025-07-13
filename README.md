@@ -1,13 +1,10 @@
-## Hiya, Mahny here (˶ᵔ ᵕ ᵔ˶)
+## Hi, I'm Mahny.
 
-I'm a senior Computer Science and Engineering student at Yeditepe University, passionate about exploring the intricate workings of the human mind, especially regarding language and cognition, and their intersection with technology. 
+I'm a Computer Science and Engineering graduate from Yeditepe University with a strong interest in machine learning and artificial intelligence, especially in the context of healthcare and medicine.
 
-My interests span machine learning, natural language processing, neural networks, cognitive science, psycholinguistics, and linguistics. 
+I'm particularly drawn to areas like diagnostics, clinical decision support systems, and drug discovery, where intelligent systems can help solve real-world medical challenges. My long-term goal is to pursue a PhD and contribute to building trustworthy AI tools that make a real impact in healthcare.
 
-While I'm still gaining experience, I thrive on learning and love connecting with like-minded folks. I'm eager to engage in meaningful discussions and collaborate on exciting projects. Feel free to reach out!
-
- 
- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/mahnybarazandehtar/) and/or [Email](mahnybarazandehtar1998@gmail.com).
+I'm always eager to learn new things, get involved in meaningful work, and connect with others in the field. If you have any opportunities—research, collaboration, or anything in between—I'd love to hear about it. Feel free to reach out by sending me a message on LinkedIn.
  
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
