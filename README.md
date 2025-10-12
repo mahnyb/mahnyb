@@ -1,10 +1,12 @@
 ## Hi, I'm Mahny.
 
-I'm a Computer Science and Engineering graduate from Yeditepe University with a strong interest in machine learning and artificial intelligence, especially in the context of healthcare and medicine.
+Hi, I’m Mahny. I’m a Computer Engineering graduate from Yeditepe University and currently pursuing my M.Sc. in Computer Engineering. I have a strong interest in machine learning and artificial intelligence, particularly in applying them to healthcare, medicine, and nature conservation.
 
-I'm particularly drawn to areas like diagnostics, clinical decision support systems, and drug discovery, where intelligent systems can help solve real-world medical challenges. My long-term goal is to pursue a PhD and contribute to building trustworthy AI tools that make a real impact in healthcare.
+I’m especially drawn to areas like diagnostics, clinical decision support systems, and drug discovery, where intelligent systems can help solve real-world medical challenges. At the same time, I’m passionate about exploring how AI can contribute to wildlife protection, environmental monitoring, and sustainable conservation efforts.
 
-I'm always eager to learn new things, get involved in meaningful work, and connect with others in the field. If you have any opportunities—research, collaboration, or anything in between—I'd love to hear about it. Feel free to reach out by sending me a message on LinkedIn.
+My long-term goal is to pursue a PhD and contribute to building trustworthy AI tools that make a meaningful impact—both in human health and in the natural world.
+
+I’m always eager to learn new things, get involved in meaningful work, and connect with others in the field. If you have any opportunities—research, collaboration, or anything in between—I’d love to hear about it. Feel free to reach out by sending me a message on LinkedIn.
  
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
