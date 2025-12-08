@@ -1,12 +1,12 @@
-## Hi, I'm Mahny.
+## Hey there!
 
-Hi, I’m Mahny. I’m a Computer Engineering graduate from Yeditepe University and currently pursuing my M.Sc. in Computer Engineering. I have a strong interest in machine learning and artificial intelligence, particularly in applying them to healthcare, medicine, and nature conservation.
+I'm Mahny. I’m currently pursuing my M.Sc. in Computer Engineering at Yeditepe University, with a focus on machine learning and artificial intelligence.
 
-I’m especially drawn to areas like diagnostics, clinical decision support systems, and drug discovery, where intelligent systems can help solve real-world medical challenges. At the same time, I’m passionate about exploring how AI can contribute to wildlife protection, environmental monitoring, and sustainable conservation efforts.
+My primary interest is in using AI to advance wildlife and nature conservation by contributing to research that supports ecological well-being and protects the natural world. I’m motivated by questions related to preserving habitats, supporting endangered species, combating the effects of climate change, and ensuring that wildlife and ecosystems remain safe and resilient. I’m also very interested in projects that combine AI with field work, allowing technology and environmental science to reinforce each other.
 
-My long-term goal is to pursue a PhD and contribute to building trustworthy AI tools that make a meaningful impact—both in human health and in the natural world.
+In the long term, I hope to pursue a PhD and build a research career dedicated to trustworthy, scientifically grounded AI for conservation, working at the intersection of computer science, ecology, and environmental sustainability.
 
-I’m always eager to learn new things, get involved in meaningful work, and connect with others in the field. If you have any opportunities—research, collaboration, or anything in between—I’d love to hear about it. Feel free to reach out by sending me a message on LinkedIn.
+I’m always eager to collaborate, learn from experts, and get involved in projects where AI can support meaningful conservation outcomes. If you’re working in this space or have opportunities for research or collaboration, I’d love to connect. Feel free to reach out via email or message me on LinkedIn.
  
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
