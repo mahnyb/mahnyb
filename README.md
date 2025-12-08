@@ -7,7 +7,8 @@ My primary interest is in using AI to advance wildlife and nature conservation b
 In the long term, I hope to pursue a PhD and build a research career dedicated to trustworthy, scientifically grounded AI for conservation, working at the intersection of computer science, ecology, and environmental sustainability.
 
 I’m always eager to collaborate, learn from experts, and get involved in projects where AI can support meaningful conservation outcomes. If you’re working in this space or have opportunities for research or collaboration, I’d love to connect. Feel free to reach out via email or message me on LinkedIn.
- 
+
+ <!--
   ![@mahny #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mahny)
 
   [![Leetcode Stats](https://leetcard.jacoblin.cool/mahny?theme=unicorn)](https://leetcode.com/mahny)
@@ -16,7 +17,6 @@ I’m always eager to collaborate, learn from experts, and get involved in proje
 
 ![Snake animation](https://raw.githubusercontent.com/mahnyb/mahnyb/output/github-contribution-grid-snake-dark.svg)
 
-<!--
 **mahnyb/mahnyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
